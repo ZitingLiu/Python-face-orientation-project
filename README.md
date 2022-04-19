@@ -2,6 +2,7 @@
 Course project for EECE5642 @ Northeastern University
 Face orientation algorithm from https://linuxtut.com/en/1e68a7572bc5736d474e/
 Please remember to change the working directory if you wish to run this code.
+shape_predictor_68_face_landmarks.dat was used in this project
 
 Face orientation detection designed for online testing anti-cheat
 Color timeline represents the angle throughout the duration of the video
